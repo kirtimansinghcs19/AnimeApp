@@ -2,6 +2,8 @@ Anime Browser App
 An Android application that leverages the Jikan API (an unofficial MyAnimeList API) to browse and explore anime series. This app displays a list of top anime and allows users to view detailed information and trailers.
 Features
 
+APK LINK-: https://drive.google.com/file/d/1FvvMoZ1NGITkvoTpr3O_eg9f_nJ_oefx/view?usp=sharing
+
 Anime List Page (Home Screen):
 
 Displays a scrollable list of top/popular anime series

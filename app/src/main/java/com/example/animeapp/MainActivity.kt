@@ -23,7 +23,7 @@ class MainActivity : ComponentActivity(), AnimeListView {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        println("!!!!!!!!!!!!!!!!")
+        println("!!!!!!!!!!!!!!!")
         binding = ActivityMainBinding.inflate(layoutInflater)
         setContentView(binding.root)
 

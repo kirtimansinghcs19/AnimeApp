@@ -3,6 +3,7 @@ An Android application that leverages the Jikan API (an unofficial MyAnimeList A
 Features
 
 APK LINK-: https://drive.google.com/file/d/1FvvMoZ1NGITkvoTpr3O_eg9f_nJ_oefx/view?usp=sharing
+Demo Link-: https://drive.google.com/file/d/1c023pHyfYo3PLc2Ks9m3xs6vD6Sn32S_/view?usp=sharing
 
 Anime List Page (Home Screen):
 
